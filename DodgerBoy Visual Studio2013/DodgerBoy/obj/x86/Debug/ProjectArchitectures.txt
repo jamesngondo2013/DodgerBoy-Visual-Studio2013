@@ -1,0 +1,4 @@
+C:\Users\Jayme\Documents\GitHub\DodgerBoy\Assembly-CSharp-firstpass-metro-vs2013.csproj;x86
+C:\Users\Jayme\Documents\GitHub\DodgerBoy\Assembly-CSharp-firstpass-metro-vs2013.csproj;x86
+C:\Users\Jayme\Documents\GitHub\DodgerBoy\Assembly-CSharp-metro-vs2013.csproj;x86
+D:\DodgerBoy Visual Studio2013\DodgerBoy\DodgerBoy.csproj;x86
